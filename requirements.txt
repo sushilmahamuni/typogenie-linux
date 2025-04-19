@@ -1,0 +1,6 @@
+keyboard
+pyperclip
+requests
+pyinstaller
+tk
+pynput
