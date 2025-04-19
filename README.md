@@ -6,6 +6,7 @@
 
 > AI-powered clipboard assistant that silently fixes grammar and optimizes code while you copy — then magically improves it when you paste.  
 > **Currently Download support only for Linux. For windows file is not signed so download will not work.**
+> To work faster, it is recommended to use a higher Ollama model like LLaMA 3.2, and the system should be configured with a GPU instead of a CPU.
 
 ---
 
